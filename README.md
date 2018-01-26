@@ -5,7 +5,7 @@ Built in Node, React, and PostgreSQL
 
 Supports desktop and mobile
 
-## [Demo (Mobile)](https://ganpay.herokuapp.com)
+## [Demo](https://ganpay.herokuapp.com)
 
 ### Creating a team
 <a href="https://imgflip.com/gif/23ewvf"><img src="https://i.imgflip.com/23ewvf.gif" title="made at imgflip.com"/></a>
@@ -20,3 +20,4 @@ Supports desktop and mobile
 ### Filing a settlement (part 1 & 2)
 <a href="https://imgflip.com/gif/23eytb"><img src="https://i.imgflip.com/23eytb.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/23eyw0"><img src="https://i.imgflip.com/23eyw0.gif" title="made at imgflip.com"/></a>
+
